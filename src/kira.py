@@ -51,7 +51,7 @@ def vector_store_id(file_path):
     return vector_store.id
 
 
-def chat_with_gpt(query):
+def ask_from_kira(query):
     try:
         response = client.responses.create(
             model="gpt-4o-mini",
