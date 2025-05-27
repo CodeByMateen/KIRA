@@ -1,0 +1,2 @@
+OPENAI_API_KEY= <your openai api key>
+VECTOR_STORE_ID= <create it by the function present inside and paste here>
